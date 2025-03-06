@@ -19,7 +19,7 @@
 			<applet_ref/>
 			<debugger_ref/>
 			<param/>
-			<run/>
+			<run>app1</run>
 			<verify>true</verify>
 		</runtime>
 	</runtimes>
@@ -29,6 +29,22 @@
 			<folderitem>
 				<path>src</path>
 			</folderitem>
+			<fileitem>
+				<path>src\app1.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\app2.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\app3.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Clavier.java</path>
+				<folder>src</folder>
+			</fileitem>
 			<fileitem>
 				<path>src\Tp7.java</path>
 				<folder>src</folder>

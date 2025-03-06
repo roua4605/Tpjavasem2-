@@ -1,3 +1,5 @@
 "D:\\Roua Ben Achiba Tp_JAVA\\Tp7 les tableaux à deux dimensions\\Tp7\\src\\app1.java"
+"D:\\Roua Ben Achiba Tp_JAVA\\Tp7 les tableaux à deux dimensions\\Tp7\\src\\app2.java"
+"D:\\Roua Ben Achiba Tp_JAVA\\Tp7 les tableaux à deux dimensions\\Tp7\\src\\app3.java"
 "D:\\Roua Ben Achiba Tp_JAVA\\Tp7 les tableaux à deux dimensions\\Tp7\\src\\Clavier.java"
 "D:\\Roua Ben Achiba Tp_JAVA\\Tp7 les tableaux à deux dimensions\\Tp7\\src\\Tp7.java"

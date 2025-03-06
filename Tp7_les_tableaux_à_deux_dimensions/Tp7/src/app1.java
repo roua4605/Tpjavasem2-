@@ -39,7 +39,7 @@ public class app1 {
         	do{
         	System.out.println("Saisir x:");
         	x=Clavier.lireInt();
-        }while(x % 2==0);
+        }while(x % 2 == 0 );
         	}
         	if ((M, x)) {
             System.out.println("L'élément " + x + " existe dans la matrice.");
@@ -47,7 +47,6 @@ public class app1 {
             System.out.println("L'élément " + x + " n'existe pas dans la matrice.");
         }
     }
-
         for (int i = 0; i < nl; i++) {
             for (int j = 0; j < nc; j++) {
                 if (M[i][j] == x) {
@@ -56,6 +55,4 @@ public class app1 {
             }
         }
         return false; 
-    }
-}
-^}       		       	
+       		       	
